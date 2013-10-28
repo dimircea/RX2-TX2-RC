@@ -11,4 +11,5 @@ Connect Arduino pin 10 to the solder point where the toy antenna is connected or
 One can replace pin 10 with other free digital pin available on the Arduino board.
 
 TX-2B/RX-2B datasheet: http://www.datasheetarchive.com/dl/Datasheet-035/DSA0017137.pdf
+
 NOTE: RX2 (-G) is pin and command compatible with RX-2B.
